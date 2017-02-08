@@ -122,4 +122,6 @@ _London, UK – May 2014 – July 2014_
 
 ## Get in touch
 
-[(contact details available via profile)](https://github.com/roidriscoll)
+* [roi.driscoll@gmail.com]()
+* [@roidriscoll](http://twitter.com/roidriscoll)
+* [Instagram](https://www.instagram.com/roidriscoll/)
