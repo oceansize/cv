@@ -43,6 +43,7 @@ I'm a strong communicator, and thrive in environments where open and honest dial
 Ruby | Working
 JavaScript | Working
 HTML & CSS | Working
+PostgreSQL | Working
 
 
 ## Experience  
