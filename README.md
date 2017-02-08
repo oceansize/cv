@@ -6,7 +6,7 @@
 [Education](https://github.com/roidriscoll/CV#education) |
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
 [Twitter](http://twitter.com/roidriscoll) |
-[Blog](http://roidriscoll.co.uk/)
+[Blog](http://roidriscoll.co.uk/) | [contact](https://github.com/roidriscoll/CV#get-in-touch!)
 
 I work at Makers Academy - a crazy place where even crazier people show up with the dream of becoming a Developer, and leave 12 weeks later with a love of code and the ability to figure out how to build some pretty great stuff.
 
@@ -53,7 +53,7 @@ PostgreSQL | Working
 [Education](https://github.com/roidriscoll/CV#education) |
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
 [Twitter](http://twitter.com/roidriscoll) |
-[Blog](http://roidriscoll.co.uk/)
+[Blog](http://roidriscoll.co.uk/) | [contact](https://github.com/roidriscoll/CV#get-in-touch!)
 
 #### Makers Academy
 _Coach - July 2014 - Present_  
@@ -96,7 +96,7 @@ _Creative Artworker - September 2011 - May 2014_
 [Experience](https://github.com/roidriscoll/CV#experience) |
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
 [Twitter](http://twitter.com/roidriscoll) |
-[Blog](http://roidriscoll.co.uk/)
+[Blog](http://roidriscoll.co.uk/) | [contact](https://github.com/roidriscoll/CV#get-in-touch!)
 
 #### Makers Academy
 _London, UK – May 2014 – July 2014_
@@ -113,9 +113,13 @@ _London, UK – May 2014 – July 2014_
 [Experience](https://github.com/roidriscoll/CV#experience) |
 [Education](https://github.com/roidriscoll/CV#education) |
 [Twitter](http://twitter.com/roidriscoll) |
-[Blog](http://roidriscoll.co.uk/)
+[Blog](http://roidriscoll.co.uk/) | [contact](https://github.com/roidriscoll/CV#get-in-touch!)
 
 * Guitar, Bass and Singing are ways I like to make noise, for myself and others.
 * Reading is a huge passion. I may as well assign half of my salary to Foyles each month.
 * Brazilian jiu-jitsu is my latest hobby, when I'm not injured from it.
 * Graphic Design - I trained for years to spot great kerning, sublime colour palettes and consistent vertical rhythm from fifty paces. It's in my blood, and always will be.
+
+## Get in touch!
+
+[(contact details available via profile)](https://github.com/roidriscoll)
