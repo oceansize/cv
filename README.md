@@ -2,11 +2,11 @@
 
 [Skills](https://github.com/roidriscoll/CV#skills) |
 [Languages](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Projects](https://github.com/roidriscoll/CV#projects) |
 [Experience](https://github.com/roidriscoll/CV#experience) |
 [Education](https://github.com/roidriscoll/CV#education) |
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
 [Twitter](http://twitter.com/roidriscoll) |
+[Blog](http://roidriscoll.co.uk/)
 
 I work at Makers Academy - a crazy place where even crazier people show up with the dream of becoming a Developer, and leave 12 weeks later with a love of code and the ability to figure out how to build some pretty great stuff.
 
@@ -49,10 +49,10 @@ HTML & CSS | Working
 [Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
 [Skills](https://github.com/roidriscoll/CV#skills) |
 [Languages](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Projects](https://github.com/roidriscoll/CV#projects) |
 [Education](https://github.com/roidriscoll/CV#education) |
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
 [Twitter](http://twitter.com/roidriscoll) |
+[Blog](http://roidriscoll.co.uk/)
 
 #### Makers Academy
 _Coach - July 2014 - Present_  
@@ -68,6 +68,16 @@ _Coach - July 2014 - Present_
 * Interview prospective students (and sometimes coaches)
 * Run workshops for the general public to promote Makers Academy
 
+_Engineer - July 2014 - Present_  
+* Responsible for a major overhaul of our website
+* Pairing with senior engineers
+* Daily stand ups (including feedback slots)
+* Weekly Retros
+* Write tickets for Kanban board (we prefer [Waffle](https://waffle.io/))
+* Point tickets in a weekly kickoff
+* Adding new features to existing internal software tools
+* Designing and building example apps for students
+
 ###### Feedback from Makers Academy:
 "You singlehandedly coach large cohorts. You do a wonderful job of caring for students, making them feel held and able to learn without fear. Your help as I've learnt to coach at Makers has made me a much better coach." ~ [Mary Rose  Cook (Coach)](https://maryrosecook.com/)
 
@@ -82,10 +92,10 @@ _Creative Artworker - September 2011 - May 2014_
 [Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
 [Skills](https://github.com/roidriscoll/CV#skills) |
 [Languages](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Projects](https://github.com/roidriscoll/CV#projects) |
 [Experience](https://github.com/roidriscoll/CV#experience) |
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
 [Twitter](http://twitter.com/roidriscoll) |
+[Blog](http://roidriscoll.co.uk/)
 
 #### Makers Academy
 _London, UK – May 2014 – July 2014_
@@ -99,7 +109,6 @@ _London, UK – May 2014 – July 2014_
 [Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
 [Skills](https://github.com/roidriscoll/CV#skills) |
 [Languages](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Projects](https://github.com/roidriscoll/CV#projects) |
 [Experience](https://github.com/roidriscoll/CV#experience) |
 [Education](https://github.com/roidriscoll/CV#education) |
 [Twitter](http://twitter.com/roidriscoll) |
