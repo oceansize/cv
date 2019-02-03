@@ -6,7 +6,7 @@
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
 [Contact](https://github.com/roidriscoll/CV#get-in-touch)
 
-Currently I work at Carwow — a car-comparison application which is designed to take the pain out of buying a new car. Here I am employed as a Front End Developer, where we work using Ruby on Rails and elm to bring our automotive experience to the masses.
+Currently I work at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. Here I am employed as a Front End Developer, where we work using Ruby on Rails and elm to bring our automotive experience to the masses.
 
 It's rewarding to be working on a product that disrupts a process so many find painful, while working for a business who genuinely want to improve the experience of both the people buying cars, and the people selling them.
 
