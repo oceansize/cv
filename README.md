@@ -69,15 +69,6 @@ _Engineer - July 2014 - December 2017_
 
 "You single-handedly coach large cohorts. You do a wonderful job of caring for students, making them feel held and able to learn without fear. Your help as I've learnt to coach at Makers has made me a much better coach." ~ [Mary Rose Cook (Coach)](https://maryrosecook.com/)
 
-#### AKA Ltd
-
-_Graphic Designer - September 2011 - May 2014_
-
-- Designed and created artwork for predominantly West-End shows such as Jersey Boys, War Horse, Matilda etc
-- Delivered artwork to a high standard under extremely tight deadlines to be displayed in both national and international publications
-- Retouched portraits of stars of stage and screen
-- Worked with art directors to meet challenging and ambitious briefs which tested and fed problem solving, artistic skills and creativity
-
 ## Education
 
 #### Makers Academy
