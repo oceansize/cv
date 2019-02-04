@@ -134,6 +134,6 @@ _London, UK – May 2014 – July 2014_
 [Education](https://github.com/roidriscoll/CV#education) |
 [Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time)
 
-- [roi.driscoll@gmail.com]()
+- [roi.driscoll@gmail.com](roi.driscoll@gmail.com)
 - [Twitter](https://twitter.com/d_roi_d)
 - [Instagram](https://www.instagram.com/roidriscoll/)
