@@ -6,16 +6,6 @@ It's rewarding to be working on a product that disrupts a process so many find p
 
 Before Carwow, I started my tech career at [Makers Academy](http://makersacademy.com) — [You can read about that role here.](https://github.com/oceansize/cv/blob/9c4cbbf39eedcf03b3a5f3ed3266cab00ceb5fa7/README.md)
 
-## I like to work with:
-
-| Language   | Proficiency |
-| ---------- | ----------- |
-| Ruby       | Working     |
-| JavaScript | Working     |
-| Elm        | Working     |
-| HTML & CSS | Working     |
-| PostgreSQL | Working     |
-
 ## Experience
 
 #### Carwow
