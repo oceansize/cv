@@ -1,11 +1,5 @@
 # Roi Driscoll - CV
 
-[Technologies](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Experience](https://github.com/roidriscoll/CV#experience) |
-[Education](https://github.com/roidriscoll/CV#education) |
-[Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
-[Contact](https://github.com/roidriscoll/CV#get-in-touch)
-
 Currently I work at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. Here I am employed as a Front End Developer, where we work using Ruby on Rails and elm to bring our automotive experience to the masses.
 
 It's rewarding to be working on a product that disrupts a process so many find painful, while working for a business who genuinely want to improve the experience of both the people buying cars, and the people selling them.
@@ -13,12 +7,6 @@ It's rewarding to be working on a product that disrupts a process so many find p
 Before Carwow, I started my tech career at [Makers Academy](http://makersacademy.com) — [You can read about that role here.](https://github.com/oceansize/cv/blob/9c4cbbf39eedcf03b3a5f3ed3266cab00ceb5fa7/README.md)
 
 ## I like to work with:
-
-[Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
-[Experience](https://github.com/roidriscoll/CV#experience) |
-[Education](https://github.com/roidriscoll/CV#education) |
-[Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
-[Contact](https://github.com/roidriscoll/CV#get-in-touch)
 
 | Language   | Proficiency |
 | ---------- | ----------- |
@@ -29,12 +17,6 @@ Before Carwow, I started my tech career at [Makers Academy](http://makersacademy
 | PostgreSQL | Working     |
 
 ## Experience
-
-[Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
-[Technologies](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Education](https://github.com/roidriscoll/CV#education) |
-[Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
-[Contact](https://github.com/roidriscoll/CV#get-in-touch)
 
 #### Carwow
 
@@ -98,12 +80,6 @@ _Graphic Designer - September 2011 - May 2014_
 
 ## Education
 
-[Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
-[Technologies](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Experience](https://github.com/roidriscoll/CV#experience) |
-[Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time) |
-[Contact](https://github.com/roidriscoll/CV#get-in-touch)
-
 #### Makers Academy
 
 _London, UK – May 2014 – July 2014_
@@ -115,24 +91,12 @@ _London, UK – May 2014 – July 2014_
 
 ## Other ways I spend my time
 
-[Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
-[Technologies](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Experience](https://github.com/roidriscoll/CV#experience) |
-[Education](https://github.com/roidriscoll/CV#education) |
-[Contact](https://github.com/roidriscoll/CV#get-in-touch)
-
 - I'm most happy when I'm playing my guitar, bass or singing.
 - I love to read, and am currently chewing my way through [Robert Jordan's Wheel of Time series.](https://en.wikipedia.org/wiki/The_Wheel_of_Time)
 - Currently learning (Brazilian) Portuguese, and Electronics (with the intention of making guitar effects pedals eventually.)
 - Graphic Design makes me happy. I trained for years to spot great kerning, sublime colour palettes and consistent vertical rhythm from fifty paces.
 
 ## Get in touch
-
-[Back to Top](https://github.com/roidriscoll/CV#roi-driscoll) |
-[Technologies](https://github.com/roidriscoll/CV#i-like-to-work-with) |
-[Experience](https://github.com/roidriscoll/CV#experience) |
-[Education](https://github.com/roidriscoll/CV#education) |
-[Interests](https://github.com/roidriscoll/CV#other-ways-i-spend-my-time)
 
 - [roi.driscoll@gmail.com](roi.driscoll@gmail.com)
 - [Twitter](https://twitter.com/d_roi_d)
