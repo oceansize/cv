@@ -1,12 +1,12 @@
 # Roi Driscoll - CV
 
-Hi, I'm Roi. I live in London and I'm a front end developer. I like making things that look good and work well — if they can make people's lives better, then I'm happy. When I'm not working I like to play the bass guitar, and draw.
+Hi, I'm Roi. I live in London and I'm a front end developer. I like making things that look good and work well — if they can make people's lives better, then I'm happy.
 
 Right now, I'm working at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. I'm employed as a Front End Developer, and my team focuses on using Ruby on Rails and elm to bring our automotive experience to the masses.
 
 Working on a product that disrupts a painful process for many is a rewarding endeavour — the business has enabled its teams to come up with creative solutions to improve the experience of both the people buying cars, and the people selling them.
 
-Before Carwow, I worked for [Makers Academy](http://makersacademy.com) — [You can read about that role here.](https://github.com/oceansize/cv/blob/9c4cbbf39eedcf03b3a5f3ed3266cab00ceb5fa7/README.md)
+Before Carwow, I worked for [Makers Academy](http://makersacademy.com) — [You can read about that role here.](https://github.com/oceansize/cv/blob/makers-academy-era/README.md)
 
 ## Experience
 
