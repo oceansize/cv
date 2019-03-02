@@ -8,11 +8,11 @@
 [Twitter](http://twitter.com/roidriscoll) |
 [Blog](http://roidriscoll.co.uk/) | [Contact](https://github.com/roidriscoll/CV#get-in-touch)
 
-I work at Makers Academy - a crazy place where even crazier people show up with the dream of becoming a Developer, and leave 12 weeks later with a love of code and the ability to figure out how to build some pretty great stuff.
+I work at Makers Academy - a beautifully unique place where even more unique people show up with the dream of becoming a Developer, and leave 12 weeks later with a love of code and the ability to figure out how to build some pretty great stuff.
 
 Once upon a time, I was one of those people. Tired of my life as a graphic designer, a new challenged beckoned, and coding was to be my new medium. During the course I figured that a good way to learn faster was to start teaching others, so I did - every day before classes. The instructors saw this, and took notice.
 
-Two years later and I find myself working as coach at Makers, using sneaky academic tricks like Spiral Learning, the Socratic Method, and waving diagrams of Bloom's Taxonomy in front of (soon-to-be-former) accountants, chefs, dancers and poker players all eager to unlock the secrets of Ruby and JavaScript, hoping to embark on new careers and be like Neo (or Trinity) from the Matrix.
+Two years later and I find myself working as coach at Makers, using proven academic techniques like Spiral Learning, the Socratic Method, and waving diagrams of Bloom's Taxonomy in front of (soon-to-be-former) accountants, chefs, dancers and poker players all eager to unlock the secrets of Ruby and JavaScript, hoping to embark on new careers and be like Neo (or Trinity) from the Matrix.
 
 While I cannot vouch for their bullet-dodging ability, I can confirm that they go out and get Dev jobs. And I'm damn proud of both them, and my involvement in their success.
 
