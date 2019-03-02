@@ -1,10 +1,12 @@
 # Roi Driscoll - CV
 
-Currently I work at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. Here I am employed as a Front End Developer, where we work using Ruby on Rails and elm to bring our automotive experience to the masses.
+Hi, I'm Roi. I live in London and I'm a front end developer. I like making things that look good and work well — if they can make people's lives better, then I'm happy. When I'm not working I like to play the bass guitar, and draw.
 
-It's rewarding to be working on a product that disrupts a process so many find painful, while working for a business who genuinely want to improve the experience of both the people buying cars, and the people selling them.
+Right now, I'm working at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. I'm employed as a Front End Developer, and my team focuses on using Ruby on Rails and elm to bring our automotive experience to the masses.
 
-Before Carwow, I started my tech career at [Makers Academy](http://makersacademy.com) — [You can read about that role here.](https://github.com/oceansize/cv/blob/9c4cbbf39eedcf03b3a5f3ed3266cab00ceb5fa7/README.md)
+Working on a product that disrupts a painful process for many is a rewarding endeavour — the business has enabled its teams to come up with creative solutions to improve the experience of both the people buying cars, and the people selling them.
+
+Before Carwow, I worked for [Makers Academy](http://makersacademy.com) — [You can read about that role here.](https://github.com/oceansize/cv/blob/9c4cbbf39eedcf03b3a5f3ed3266cab00ceb5fa7/README.md)
 
 ## Experience
 
@@ -12,14 +14,13 @@ Before Carwow, I started my tech career at [Makers Academy](http://makersacademy
 
 _Front End Developer - January 2018 - Present_
 
-- Currently on the team responsible for bringing used cars to the Carwow platform
-- Although employed as a Front End Developer, currently working across the stack, using Ruby on Rails on the backend, and elm & Sass on the client side
-- Responsible for encouraging adherence to our style guide
-- Have led initiatives to improve communication between Developers and Designers in the organisation and implemented processes to achieve this goal
-  - Introduced PR templates to the whole organisation as a way to improve consistency across the business when making Pull Requests
+- Currently on the team responsible for introducing a new product to the Carwow platform, namely, used cars
+- Have had the opportunity to work with different stacks, focusing on Ruby on Rails on the backend, and a combination of elm & SASS on the client side
+- Working with developers and designers to elaborate on our style guide and provide more consistency across our products
+- Have led initiatives to improve communication between developers and designers in the organisation and implemented processes to achieve this goal
+  - Implemented workflows that aid consistent, productive and public conversations for all to participate in
   - Designed and implemented a process to audit and catalogue changes to style guide components, in order to provide an effective changelog for the front end component library
-- Co-organised a Craft Beer tasting session for the entire company
-
+- Contributed to strengthening cultural and social relations across the entire company
 
 ###### Feedback from Carwow:
 
