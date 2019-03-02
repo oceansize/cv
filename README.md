@@ -2,7 +2,7 @@
 
 Hi, I'm Roi. I live in London and I'm a front end developer. I like making things that look good and work well — if they can make people's lives better, then I'm happy.
 
-Right now, I'm working at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. I'm employed as a Front End Developer, and my team focuses on using Ruby on Rails and elm to bring our automotive experience to the masses.
+Right now, I'm working at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. I'm employed as a front end developer, and my team focuses on using Ruby on Rails and elm to bring our automotive experience to the masses.
 
 Working on a product that disrupts a painful process for many is a rewarding endeavour — the business has enabled its teams to come up with creative solutions to improve the experience of both the people buying cars, and the people selling them.
 
@@ -26,7 +26,7 @@ _Front End Developer - January 2018 - Present_
 
 "Roi is curious, passionate, great for team culture and has great product brain ... He challenges, contributes, leads and is very inclusive in team discussions ... Roi is quick to call me out on things and has the ability to truly see the broader picture. He raises things in retrospectives that few people would have considered. He also listens well and builds on ideas made by others.
 
-Roi also is very keen to learn and to improve his skill set which is great. He doesn’t insist on front-end cards and he asks questions when he doesn’t understand ... he seems to be increasing his technical ability very quickly and it is great to see him grow in that regard. Roi wants what is best for the team which is a great trait." ~ Team Project manager
+Roi also is very keen to learn and to improve his skill set which is great. He doesn’t insist on front end cards and he asks questions when he doesn’t understand ... he seems to be increasing his technical ability very quickly and it is great to see him grow in that regard. Roi wants what is best for the team which is a great trait." ~ Team Project manager
 
 #### Makers Academy
 
