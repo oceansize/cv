@@ -12,11 +12,15 @@ Before Carwow, I worked for [Makers Academy](http://makersacademy.com) — [You 
 
 #### Carwow
 
-_Front End Developer - January 2018 - Present_
+_Junior Front End Developer - January 2018 - Present_
 
 - Currently on the team responsible for introducing a new product to the Carwow platform, namely, used cars
 - Have had the opportunity to work with different stacks, focusing on Ruby on Rails on the backend, and a combination of elm & SASS on the client side
-- Working with developers and designers to elaborate on our style guide and provide more consistency across our products
+- Ensuring the product works across a range of clients using physical device testing, and tools such as Browserstack
+- Building reusable components to increase consistency and speed of development
+- Working on large-scale refactors to increase sitewide performance
+- Collaborating with developers and designers to elaborate on our style guide and provide more consistency across our products
+- Use personal development time to release open-source software which improves the experience of elm developers
 - Have led initiatives to improve communication between developers and designers in the organisation and implemented processes to achieve this goal
   - Implemented workflows that aid consistent, productive and public conversations for all to participate in
   - Designed and implemented a process to audit and catalogue changes to style guide components, in order to provide an effective changelog for the front end component library
@@ -58,7 +62,7 @@ _Engineer - July 2014 - December 2017_
 
 ###### Feedback from Makers Academy:
 
-"You single-handedly coach large cohorts. You do a wonderful job of caring for students, making them feel held and able to learn without fear. Your help as I've learnt to coach at Makers has made me a much better coach." ~ [Mary Rose Cook (Coach)](https://maryrosecook.com/)
+"You single-handedly coach large cohorts. You do a wonderful job of caring for students, making them feel held and able to learn without fear. Your help as I've learnt to coach at Makers, has made me a much better coach." ~ [Mary Rose Cook (Coach)](https://maryrosecook.com/)
 
 ## Education
 
@@ -67,7 +71,7 @@ _Engineer - July 2014 - December 2017_
 _London, UK – May 2014 – July 2014_
 
 - Highly intensive web development bootcamp
-- Focus on best practices revolving around coding  
+- Focus on best practices revolving around coding
   – Test Driven Development, Object Oriented Design, SOLID design principles
 - Focusing on important values and attitudes revolving around teamwork, pair-programming, extreme programming and agile work methods
 
