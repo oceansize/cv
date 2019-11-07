@@ -1,26 +1,33 @@
-# Roi Driscoll - CV
+# Roi Driscoll — CV
 
-Hi, I'm Roi. I live in London and I'm a front end developer. I like making things that look good and work well — if they can make people's lives better, then I'm happy.
+Hi, I'm Roi. I live in London and I'm a software developer. I like making things that work well and are built to last — if they can make people's lives better, then I'm happy.
 
-Right now, I'm working at [Carwow](https://www.carwow.co.uk/) — a car-comparison application which is designed to take the pain out of buying a new car. I'm employed as a front end developer, and my team focuses on using Ruby on Rails and elm to bring our automotive experience to the masses.
-
-Working on a product that disrupts a painful process for many is a rewarding endeavour — the business has enabled its teams to come up with creative solutions to improve the experience of both the people buying cars, and the people selling them.
-
-Before Carwow, I worked for [Makers Academy](http://makersacademy.com) — [You can read about that role here.](https://github.com/oceansize/cv/blob/makers-academy-era/README.md)
+Right now, I'm working at [Tempo](https://heytempo.com/) — a platform built to revolutionize the recruitment industry by employing a proprietary matching algorithm to match candidates with companies. I'm employed as a full stack developer, and my team focuses on using NodeJS on the back end, with React on the client side.
 
 ## Experience
 
+#### Tempo
+
+_Software Developer | July 2019 — Present_
+
+- Working across an all-JavaScript stack to develop new features and refactor existing code
+- Taking ownership of a project to improve test coverage througout the application
+- Delivering talks on ways to use Chrome's DevTools effectively
+- Improving remote working processes and practices throughout the business
+- Assisted in moving the organisation from BitBucket to GitHub
+- Working to improve data gathering and analytics on features
+
 #### Carwow
 
-_Junior Front End Developer - January 2018 - Present_
+_Junior Front End Developer | January 2018 — Present_
 
 - Currently on the team responsible for introducing a new product to the Carwow platform, namely, used cars
 - Have had the opportunity to work with different stacks, focusing on Ruby on Rails on the backend, and a combination of elm & SASS on the client side
 - Ensuring the product works across a range of clients using physical device testing, and tools such as Browserstack
 - Building reusable components to increase consistency and speed of development
-- Working on large-scale refactors to increase sitewide performance
+- Working on large—scale refactors to increase sitewide performance
 - Collaborating with developers and designers to elaborate on our style guide and provide more consistency across our products
-- Use personal development time to release open-source software which improves the experience of elm developers
+- Use personal development time to release open—source software which improves the experience of elm developers
 - Have led initiatives to improve communication between developers and designers in the organisation and implemented processes to achieve this goal
   - Implemented workflows that aid consistent, productive and public conversations for all to participate in
   - Designed and implemented a process to audit and catalogue changes to style guide components, in order to provide an effective changelog for the front end component library
@@ -34,10 +41,10 @@ Roi also is very keen to learn and to improve his skill set which is great. He d
 
 #### Makers Academy
 
-_Coach - July 2014 - December 2017_
+_Coach | July 2014 — December 2017_
 
 - Responsible for coaching 35+ students every 3 months
-- Guide students through a challenge-based curriculum
+- Guide students through a challenge—based curriculum
 - Facilitate daily stand ups and weekly retros
 - Build independence and resourcefulness by building skills as opposed to spoon-feeding technical solutions to students
 - Build and maintain student motivation during a very challenging time in their lives
@@ -48,15 +55,10 @@ _Coach - July 2014 - December 2017_
 - Interview prospective students (and sometimes coaches)
 - Run workshops for the general public to promote Makers Academy
 - Volunteer time to work on Diversity & Inclusivity projects
-
-_Engineer - July 2014 - December 2017_
-
 - Responsible for a major overhaul of our website
-- Pairing with senior engineers
 - Daily stand ups (including feedback slots)
 - Weekly Retros
-- Write tickets for Kanban board (we prefer [Waffle](https://waffle.io/))
-- Point tickets in a weekly kickoff
+
 - Adding new features to existing internal software tools
 - Designing and building example apps for students
 
@@ -68,7 +70,7 @@ _Engineer - July 2014 - December 2017_
 
 #### Makers Academy
 
-_London, UK – May 2014 – July 2014_
+_London, UK | May 2014 – July 2014_
 
 - Highly intensive web development bootcamp
 - Focus on best practices revolving around coding
@@ -79,11 +81,11 @@ _London, UK – May 2014 – July 2014_
 
 - I'm most happy when I'm playing my guitar, bass or singing.
 - I love to read, and am currently chewing my way through [Robert Jordan's Wheel of Time series.](https://en.wikipedia.org/wiki/The_Wheel_of_Time)
-- Currently learning (Brazilian) Portuguese, and Electronics (with the intention of making guitar effects pedals eventually.)
-- Graphic Design makes me happy. I trained for years to spot great kerning, sublime colour palettes and consistent vertical rhythm from fifty paces.
+- Currently learning Spanish, and Electronics (with the intention of making guitar effects pedals eventually.)
+- Great Graphic Design makes me happy. I trained for years to spot great kerning, sublime colour palettes and consistent vertical rhythm from fifty paces.
 
 ## Get in touch
 
 - [roi.driscoll@gmail.com](roi.driscoll@gmail.com)
-- [Twitter](https://twitter.com/d_roi_d)
 - [Instagram](https://www.instagram.com/roidriscoll/)
+- [Twitter](https://twitter.com/d_roi_d)
